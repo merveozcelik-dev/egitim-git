@@ -1,0 +1,4 @@
+git status
+[1;5F[C[C[C[C[C[C[C[C[C[C[C
+
+
